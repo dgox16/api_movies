@@ -18,7 +18,7 @@ app.use(
 );
 app.use(
     cors({
-        origin: "https://penguin-movies-j9k2eduy6-dgox16.vercel.app",
+        origin: "https://64896d2f29f8af0008a1ebe7--penguinmovies.netlify.app",
         credentials: true,
     }),
 );
