@@ -18,7 +18,6 @@ app.use(
 );
 app.use(
     cors({
-        origin: "https://dgox16.github.io/penguinMovies/",
         credentials: true,
     }),
 );
