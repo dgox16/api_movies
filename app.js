@@ -18,6 +18,7 @@ app.use(
 );
 app.use(
     cors({
+        origin: "https://xxxxxx.github.io",
         credentials: true,
     }),
 );
