@@ -18,7 +18,7 @@ app.use(
 );
 app.use(
     cors({
-        origin: "http://localhost:5173",
+        origin: "https://dgox16.github.io/penguinMovies/",
         credentials: true,
     }),
 );
