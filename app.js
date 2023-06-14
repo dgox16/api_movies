@@ -18,7 +18,7 @@ app.use(
 );
 app.use(
     cors({
-        origin: "https://xxxxxx.github.io",
+        origin: "https://dgox16.github.io/",
         credentials: true,
     }),
 );
